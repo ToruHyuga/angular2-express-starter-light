@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAM;EACJ,OAAO,EAAE,IAAI;EACb,OAAO,EAAE,KAAK;EACd,aAAa,EAAE,iBAAiB",
+"sources": ["sub-navigation.component.scss"],
+"names": [],
+"file": "sub-navigation.component.css"
+}
