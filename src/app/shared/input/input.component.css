@@ -1,0 +1,13 @@
+:host input {
+  padding: 8px;
+  display: block;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  margin-bottom: 16px !important; }
+
+.field.error > * {
+  background: lightcoral;
+  color: white; }
+
+/*# sourceMappingURL=input.component.css.map */
